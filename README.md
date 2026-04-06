@@ -13,6 +13,10 @@ The dashboard was built using the following tools and technologies:<br>
 🧠 DAX – Calculated measures and dynamic visuals.<br>
 📁 File Format – .pbix for development, .png for previews.<br>
 
+## Data Source
+Data was sourced from a youtube video.<br>
+[Access video discirption for data](https://www.youtube.com/watch?v=j4xlVLgsmNQ)
+
 ## Features/Highlights
 ### Problem Statement
 HR teams often struggle to identify why and who is leaving the organization. Without clear visual insights, retention strategies remain reactive rather than proactive.
@@ -28,11 +32,6 @@ To deliver an interactive tool that uncovers attrition patterns and helps HR tea
 -Attrition by Job Role – Lab Technicians and Sales Executives most affected.<br>
 -Attrition by Education – Life Sciences leads at 20%.<br>
 -Attrition by Years – Tenure-based trend analysis.<br>
-
-### Business Impact
--Helps HR identify high-risk employee segments.<br>
--Supports targeted retention strategies by role and salary band.<br>
--Enables department-level filtering across HR, R&D, and Sales.<br>
 
 ## 🔍 Walkthrough of Key Visuals
 
@@ -79,4 +78,4 @@ To deliver an interactive tool that uncovers attrition patterns and helps HR tea
 
 ## Snapshot
 Show what the dashboard looks like.
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Anuda-Vartak/HR-Analytics-Dashboard/blob/main/Snapshot_of_HR_Dashboard.png)
